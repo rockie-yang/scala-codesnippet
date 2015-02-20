@@ -1,4 +1,3 @@
-* [Introduction] (README.md)
 * [First Step in Scala] (ch2_FirstStepInScala.md)
 * [Next Step in Scala] (ch3_NextStepInScala.md)
 * [Classes and Objects] (ch4_ClassesAndObjects.md)
