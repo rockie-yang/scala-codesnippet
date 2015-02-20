@@ -1,3 +1,5 @@
+## Basic Types and Operations
+
 scala里的基本类型和Java非常类似。虽然scala里这些基本类型也是对象，但用起来和Java的内建类型一模一样。
 
 scala提供了一些比较好用的功能。譬如说多行字符串。

@@ -1,3 +1,5 @@
+## Functional Objects
+
 下面例子定义一个比前面定义稍微复杂一点的类Rational（分数）。
 
 ```scala

@@ -1,3 +1,5 @@
+## Builtin Control Structure
+
 scala只有非常少的内建控制结构。只有if、while、for、try、match和函数调用。大部分都是通过库形式一层一层堆积起来的。
 
 和Java不同，scala里几乎每个控制结构都有返回值。也就是最后一个表达式的值。据说这样可以让编程更有效。

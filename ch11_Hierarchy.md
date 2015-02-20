@@ -1,3 +1,5 @@
+## Hierarchy
+
 <a href="http://snowriver.org/blog/wp-content/uploads/2011/03/scala_hierarchy.png">
 <img src="http://snowriver.org/blog/wp-content/uploads/2011/03/scala_hierarchy.png" alt="" title="scala_hierarchy" width="530" height="360" class="aligncenter size-full wp-image-482" /></a>
 
